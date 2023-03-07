@@ -1,2 +1,2 @@
 # Python-Practice
-Projects I did to practice using Python
+Projects done to practice Python
