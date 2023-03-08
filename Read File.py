@@ -1,4 +1,4 @@
-#Receive a filename from the user, open the text file for reading, and read the file
+#Receive a filename from the user (module6.txt), open the text file for reading, and read the file
 #Count the sentences in the text file
 #Count the number of words in the text file
 #Print these two values with appropriate labels as a result of running the program
